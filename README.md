@@ -1,9 +1,6 @@
 ### Hi there 👋, my name is Mehdi Fathi
 #### I am a Back-end developer.
 I'm often developing open-source projects. I prefer to convert new ideas to code.
-
-Skills: PHP / LARAVEL / JS / HTML / CSS / MYSQL
-
 🔭 I’m currently working on this page. 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehdi-fathi&show_icons=true&theme=default)
