@@ -7,8 +7,6 @@ I'm often developing open-source projects. I prefer to convert new ideas to code
 
 🔭 I’m currently working on this page. 
 
-![](https://komarev.com/ghpvc/?username=mehdi-fathi)
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mehdifathi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehdi-fathi-a33a52b6//)  
 
