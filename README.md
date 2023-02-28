@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mehdi Fathi
-#### A Back-end developer.
+#### A Back-end developer
 Developing open-source projects. In effort to convert new ideas to code.
 
 My belief is consistency as it is the key to unlocking your true potential.
